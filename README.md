@@ -14,14 +14,6 @@ The sample provides code sample on how to use connection pooling with Python Azu
 - Setup VS code with python.  
 
 
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
 ### Quickstart
 
 1. git clone https://github.com/Azure-Samples/function-mysql-connection-pool-python

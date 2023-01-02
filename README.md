@@ -18,7 +18,7 @@ The sample provides code sample on how to use connection pooling with Python Azu
 
 1. git clone https://github.com/Azure-Samples/function-mysql-connection-pool-python
 2. cd function-mysql-connection-pool-python
-3. Change the Azure MySQL server connection details in the __iniy__.py
+3. Change the Azure MySQL server connection details in the __init__.py
 4. Run the sample.  
 
 

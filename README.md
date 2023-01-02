@@ -9,8 +9,8 @@ The sample provides code sample on how to use connection pooling with Python Azu
 
 - Create MySQL database in Azure (This sample uses flexible server)
 - Add your client IP address in the networking section (if you are testing it from VS Code.)
-- Download SSL Certificate and replace with DigiCertGlobalRootCA.crt.pem VS code and local testing.  
-- Allow public access from any Azure service within Azure to this server (in networking section of MySQL) 
+- Download SSL Certificate and replace with DigiCertGlobalRootCA.crt.pem VS code and local testing.  (In Networking section in Azure Portal- https://learn.microsoft.com/en-us/azure/mysql/flexible-server/how-to-connect-tls-ssl)
+- Allow public access from any Azure service within Azure to this server (in networking section of MySQL - same link as above) 
 - Setup VS code with python.  
 
 
